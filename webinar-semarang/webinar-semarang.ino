@@ -7,11 +7,7 @@ char auth[] = "5M19usXSgimxmQHjhEUzjtAmloGfK_4O"; //Auth Token Blynk
 char ssid[] = "SSID"; //SSID atau nama WIFI yang dihubungkan
 char pass[] = "password"; //Password Wifi
 
-//memasukkan pin relay ke variabel
-int relay1 = 16;
-int relay2 = 5;
-int relay3 = 4;
-int relay4 = 0;
+
 
 //configurasi dht
 #define DHTPIN 2
